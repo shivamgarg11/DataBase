@@ -1,0 +1,12 @@
+[
+  {
+      "id": 1,
+      "name": "Find Subarray with given sum",
+      "link": "https://www.geeksforgeeks.org/find-subarray-with-given-sum/"
+    },
+    {
+      "id": 2,
+      "name": "Find equilibrium index of the array",
+      "link": "https://www.geeksforgeeks.org/equilibrium-index-of-an-array/"
+    }
+]
